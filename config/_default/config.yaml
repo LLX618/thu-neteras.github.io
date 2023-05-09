@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Wowchemy Research Group # Website name
+title: 建筑与市政公用设施智慧运维理论与方法 # Website name
 baseURL: 'https://thu-neteras.github.io/' # Website URL
 
 ############################
